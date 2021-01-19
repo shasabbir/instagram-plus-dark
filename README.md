@@ -8,7 +8,7 @@
 
 # Some Screenshots
 ## Home
-(./readme/home.JPG)  
+![downloads](./readme/home.JPG)  
 
 ![downloads](./readme/profile.JPG)   
 ![downloads](./readme/wide.JPG)  
