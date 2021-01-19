@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name          Instagram+ (DARK)
 // @namespace     http://userstyles.org
-// @description	  This is a Dark Mode for Instagram that's very similar to phone's version, hope you like it.
-// @author        Señor C.
-// @homepage      https://userstyles.org/styles/190557
+// @description	  This is a Dark Mode for Instagram that has lots of things more.
+// @author        Sabbir (shasabbir234@gmail.com)
+// @homepage      https://github.com/shasabbir/instagram-plus-dark
 // @include       http://instagram.com/*
 // @include       https://instagram.com/*
 // @include       http://*.instagram.com/*
 // @include       https://*.instagram.com/*
 // @run-at        document-start
-// @version       0.20210117012054
+// @version       1.102
 // ==/UserScript==
 (function() {var css = [
     " /* Full wide start */",
